@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.js.map
+*.d.ts
+
+# Never commit credentials or tokens
+.env
+.env.local
+tokens.json
