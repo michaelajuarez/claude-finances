@@ -27,7 +27,7 @@ Once connected, you can ask Claude things like:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-finances.git
+git clone https://github.com/michaelajuarez/claude-finances.git
 cd claude-finances
 npm install
 ```
@@ -69,7 +69,7 @@ MCP_API_KEY=<generate with: openssl rand -hex 32>
 **On the server:**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-finances.git
+git clone https://github.com/michaelajuarez/claude-finances.git
 cd claude-finances
 npm install
 npm run build
